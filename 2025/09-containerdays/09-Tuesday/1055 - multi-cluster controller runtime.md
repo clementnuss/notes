@@ -1,4 +1,4 @@
-# Dynamic Multi-Cluster Controllers with controller-runtime (Marbin Beckers & Stefan Schimanski)
+# Dynamic Multi-Cluster Controllers with controller-runtime (Marvin Beckers & Stefan Schimanski)
 
 scaling models:
 
